@@ -12,6 +12,7 @@
     "mqttpass": "changemehard",
     "mqtttopic": "home/sip",
     "sipdomain": "",
+    "sipextension": "",
     "sipuser": "",
     "sippass": ""
   },
@@ -22,6 +23,7 @@
     "mqttpass": "str",
     "mqtttopic": "str",
     "sipdomain": "str",
+    "sipextension": "str",
     "sipuser": "str",
     "sippass": "str"
    },
